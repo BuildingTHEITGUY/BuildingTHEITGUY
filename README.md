@@ -83,7 +83,7 @@ I work in **higher-education IT**, where systems don’t just need to run—they
 
 *(I believe legacy is built quietly, through consistent effort.)*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BuildingTHEITGUY&show_icons=true&theme=minimal&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BuildingTHEITGUY&theme=minimal&hide_border=true)
 
 ---
 
